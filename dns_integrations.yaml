@@ -1,0 +1,148 @@
+AWS IAM Identity Center: SHORT_NAME.awsapps.com
+Absorb LMS: SHORT_NAME.myabsorb.com
+Adobe Workfront: SHORT_NAME.my.workfront.com
+Asana: SHORT_NAME.asana.com
+Atlassian (Jira/Confluence): SHORT_NAME.atlassian.net
+Auth0: SHORT_NAME.auth0.com
+Azure AD (Microsoft 365): SHORT_NAME.onmicrosoft.com
+Azure AD B2C: SHORT_NAME.b2clogin.com
+Basecamp: SHORT_NAME.basecamp.com
+BeyondTrust (Bomgar): SHORT_NAME.bomgar.com
+BlackLine: SHORT_NAME.blackline.com
+BlueJeans: SHORT_NAME.bluejeans.com
+Box: SHORT_NAME.box.com
+Cherwell (Ivanti Service Mgmt): SHORT_NAME.cherwellondemand.com
+Cisco Webex: SHORT_NAME.webex.com
+Citrix Cloud: SHORT_NAME.cloud.com
+Citrix ShareFile: SHORT_NAME.sharefile.com
+Cloudflare Teams: SHORT_NAME.cloudflareaccess.com
+Cornerstone OnDemand: SHORT_NAME.csod.com
+Coupa: SHORT_NAME.coupahost.com
+CrowdStrike Falcon: SHORT_NAME.crowdstrike.com
+CyberArk Idaptive: SHORT_NAME.my.idaptive.app
+Databricks: SHORT_NAME.cloud.databricks.com
+Dropbox Business: SHORT_NAME.dropbox.com
+Duo Security: SHORT_NAME.duosecurity.com
+Freshdesk: SHORT_NAME.freshdesk.com
+Freshservice: SHORT_NAME.freshservice.com
+Gainsight: SHORT_NAME.gainsightcloud.com
+GitHub Enterprise: SHORT_NAME.githubenterprise.com
+GitLab: SHORT_NAME.gitlab.com
+GoToMeeting: SHORT_NAME.gotomeeting.com
+Heroku Enterprise: SHORT_NAME.herokuapp.com
+HubSpot: SHORT_NAME.hubspot.com
+IBM Security Verify: SHORT_NAME.verify.ibm.com
+JFrog Artifactory: SHORT_NAME.jfrog.io
+Jamf: SHORT_NAME.jamfcloud.com
+Jive: SHORT_NAME.jiveon.com
+Kronos (UKG Dimensions): SHORT_NAME.prd.mykronos.com
+Lacework: SHORT_NAME.lacework.net
+LogicMonitor: SHORT_NAME.logicmonitor.com
+Microsoft Azure DevOps: SHORT_NAME.visualstudio.com
+Microsoft Dynamics 365: SHORT_NAME.crm.dynamics.com
+Microsoft Exchange Online Protection: SHORT_NAME.mail.protection.outlook.com
+Microsoft SharePoint: SHORT_NAME.sharepoint.com
+Monday.com: SHORT_NAME.monday.com
+Netlify: SHORT_NAME.netlify.app
+Okta: SHORT_NAME.okta.com
+Okta (Kerberos): SHORT_NAME.kerberos.okta.com
+Okta (Preview): SHORT_NAME.oktapreview.com
+OneLogin: SHORT_NAME.onelogin.com
+Oracle Cloud: SHORT_NAME.oraclecloud.com
+Oracle Fusion Cloud: SHORT_NAME.fa.oraclecloud.com
+Oracle NetSuite: SHORT_NAME.app.netsuite.com
+Oracle Taleo: SHORT_NAME.taleo.net
+PagerDuty: SHORT_NAME.pagerduty.com
+Palo Alto Networks Cortex XDR: SHORT_NAME.xdr.us.paloaltonetworks.com
+Ping Identity: SHORT_NAME.pingidentity.com
+Proofpoint: SHORT_NAME.proofpoint.com
+Proofpoint (Cloud Security): SHORT_NAME.access.proofpoint.com
+Qualtrics: SHORT_NAME.qualtrics.com
+Rapid7 Insight: SHORT_NAME.insight.rapid7.com
+SAP Cloud: SHORT_NAME.sapcloud.io
+SAP Litmos: SHORT_NAME.litmos.com
+SAP SuccessFactors: SHORT_NAME.successfactors.com
+Saba Cloud: SHORT_NAME.sabacloud.com
+SailPoint IdentityNow: SHORT_NAME.identitynow.com
+Salesforce: SHORT_NAME.my.salesforce.com
+Securonix: SHORT_NAME.securonix.net
+SentinelOne: SHORT_NAME.sentinelone.net
+ServiceNow: SHORT_NAME.service-now.com
+Slack: SHORT_NAME.slack.com
+Smartsheet: SHORT_NAME.smartsheet.com
+Snowflake: SHORT_NAME.snowflakecomputing.com
+Splunk Cloud: SHORT_NAME.splunkcloud.com
+Trello Enterprise: SHORT_NAME.trello.com
+VMware Workspace ONE: SHORT_NAME.workspaceoneaccess.com
+Vercel: SHORT_NAME.vercel.app
+Workday: SHORT_NAME.workday.com
+Zendesk: SHORT_NAME.zendesk.com
+Zoom: SHORT_NAME.zoom.us
+Zscaler: SHORT_NAME.zscaler.net
+# Analytics & Data Platforms
+Datadog: SHORT_NAME.datadoghq.com
+Sumo Logic: SHORT_NAME.sumologic.com
+Looker: SHORT_NAME.looker.com
+Tableau Online: SHORT_NAME.online.tableau.com
+Alteryx: SHORT_NAME.alteryx.com
+Palantir Foundry: SHORT_NAME.palantirfoundry.com
+Domo: SHORT_NAME.domo.com
+Sisense: SHORT_NAME.sisense.com
+# Communication & Collaboration
+Miro: SHORT_NAME.miro.com
+Mural: SHORT_NAME.mural.co
+Loom: SHORT_NAME.loom.com
+Intercom: SHORT_NAME.intercom.help
+# HR & Talent Management
+Greenhouse: SHORT_NAME.greenhouse.io
+Lever: SHORT_NAME.lever.co
+BambooHR: SHORT_NAME.bamboohr.com
+Culture Amp: SHORT_NAME.cultureamp.com
+# IT & Security
+New Relic: SHORT_NAME.newrelic.com
+Elastic Cloud: SHORT_NAME.elastic-cloud.com
+HashiCorp Cloud: SHORT_NAME.hashicorp.cloud
+# Customer Support & Engagement
+Helpscout: SHORT_NAME.helpscoutdocs.com
+Freshworks CRM: SHORT_NAME.freshworks.com
+# Project Management
+Wrike: SHORT_NAME.wrike.com
+ClickUp: SHORT_NAME.clickup.com
+# Development & DevOps
+CircleCI: SHORT_NAME.circleci.com
+Buildkite: SHORT_NAME.buildkite.com
+LaunchDarkly: SHORT_NAME.launchdarkly.com
+# E-Learning & Training
+Docebo: SHORT_NAME.docebosaas.com
+TalentLMS: SHORT_NAME.talentlms.com
+# Financial & Accounting
+Expensify: SHORT_NAME.expensify.com
+Bill.com: SHORT_NAME.bill.com
+# Marketing & Sales
+Braze: SHORT_NAME.braze.com
+Amplitude: SHORT_NAME.amplitude.com
+Mixpanel: SHORT_NAME.mixpanel.com
+Adobe Experience Cloud: SHORT_NAME.adobe.com
+Salesforce Marketing Cloud (ExactTarget): SHORT_NAME.exacttarget.com
+Microsoft Power BI: SHORT_NAME.powerbi.com
+ServiceMax: SHORT_NAME.servicemax.com
+DocuSign: SHORT_NAME.docusign.net
+Atlassian Statuspage: SHORT_NAME.statuspage.io
+PagerDuty Status Page: SHORT_NAME.status.pagerduty.com
+Workiva: SHORT_NAME.app.wdesk.com
+ADP Workforce Now: SHORT_NAME.adp.com
+Ceridian Dayforce: SHORT_NAME.dayforcehcm.com
+ZoomInfo: SHORT_NAME.zoominfo.com
+Snow Software: SHORT_NAME.snowsoftware.com
+Genesys Cloud: SHORT_NAME.mypurecloud.com
+Citrix Virtual Apps and Desktops (Cloud): SHORT_NAME.cloud.com
+ZoomInfo Engage (Chorus): SHORT_NAME.chorus.ai
+Cisco Umbrella: SHORT_NAME.umbrella.com
+Akamai: SHORT_NAME.akamaihd.net
+Atlassian Bitbucket Cloud: SHORT_NAME.bitbucket.io
+Salesforce Commerce Cloud: SHORT_NAME.demandware.net
+Google Workspace: SHORT_NAME.google.com
+Broadcom CloudSOC CASB: SHORT_NAME.elastica.net
+GitHub Codespaces: SHORT_NAME.github.dev
+VMware Cloud (AWS Integration): SHORT_NAME.vmwarevmc.com
+Slack Status: SHORT_NAME.slackstatus.com
