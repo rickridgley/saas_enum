@@ -79,7 +79,6 @@ Workday: SHORT_NAME.workday.com
 Zendesk: SHORT_NAME.zendesk.com
 Zoom: SHORT_NAME.zoom.us
 Zscaler: SHORT_NAME.zscaler.net
-# Analytics & Data Platforms
 Datadog: SHORT_NAME.datadoghq.com
 Sumo Logic: SHORT_NAME.sumologic.com
 Looker: SHORT_NAME.looker.com
@@ -88,37 +87,28 @@ Alteryx: SHORT_NAME.alteryx.com
 Palantir Foundry: SHORT_NAME.palantirfoundry.com
 Domo: SHORT_NAME.domo.com
 Sisense: SHORT_NAME.sisense.com
-# Communication & Collaboration
 Miro: SHORT_NAME.miro.com
 Mural: SHORT_NAME.mural.co
 Loom: SHORT_NAME.loom.com
 Intercom: SHORT_NAME.intercom.help
-# HR & Talent Management
 Greenhouse: SHORT_NAME.greenhouse.io
 Lever: SHORT_NAME.lever.co
 BambooHR: SHORT_NAME.bamboohr.com
 Culture Amp: SHORT_NAME.cultureamp.com
-# IT & Security
 New Relic: SHORT_NAME.newrelic.com
 Elastic Cloud: SHORT_NAME.elastic-cloud.com
 HashiCorp Cloud: SHORT_NAME.hashicorp.cloud
-# Customer Support & Engagement
 Helpscout: SHORT_NAME.helpscoutdocs.com
 Freshworks CRM: SHORT_NAME.freshworks.com
-# Project Management
 Wrike: SHORT_NAME.wrike.com
 ClickUp: SHORT_NAME.clickup.com
-# Development & DevOps
 CircleCI: SHORT_NAME.circleci.com
 Buildkite: SHORT_NAME.buildkite.com
 LaunchDarkly: SHORT_NAME.launchdarkly.com
-# E-Learning & Training
 Docebo: SHORT_NAME.docebosaas.com
 TalentLMS: SHORT_NAME.talentlms.com
-# Financial & Accounting
 Expensify: SHORT_NAME.expensify.com
 Bill.com: SHORT_NAME.bill.com
-# Marketing & Sales
 Braze: SHORT_NAME.braze.com
 Amplitude: SHORT_NAME.amplitude.com
 Mixpanel: SHORT_NAME.mixpanel.com
